@@ -1,6 +1,6 @@
 import HeroSection from "./HeroSection";
 import ImpactSection from "./ImpactSection";
-import InitiativeSection from "./InitiativeSEction";
+import InitiativeSection from "./InitiativeSection";
 import IntroSection from "./IntroSection";
 
 const Home = () => {
